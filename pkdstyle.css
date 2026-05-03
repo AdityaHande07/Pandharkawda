@@ -1,0 +1,43 @@
+#tophead{
+    font-size: 55px;
+}
+#section{
+    color:rgb(109, 6, 6);
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+ 
+#subsection{
+    color:rgb(0, 164, 104)
+}
+
+div {
+    padding: 20px;
+    width: 1300px;
+}
+
+img {
+    /* height: 250px;
+    width: 250px; */
+    border: 2px solid black;
+    margin: 10px;
+    display: inline-block;
+    border-radius: 10px;
+    
+}
+
+p {
+    font-size: 25px;
+}
+
+ul {
+    font-size: 25px;
+}
+
+#ulhead {
+    font-size: 25px;
+}
+
+img:hover {
+    box-shadow: 1px 1px 5px black;
+}
